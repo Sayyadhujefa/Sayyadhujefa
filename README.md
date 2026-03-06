@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayyad Hujefa Ayub</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | Web Developer</h3>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sayyadhujefa&color=blue)
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sayyadhujefa&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>

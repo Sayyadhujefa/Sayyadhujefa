@@ -2,10 +2,9 @@
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | Web Developer</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sayyadhujefa&color=blue)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayyadhujefa&theme=github-dark"/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Sayyadhujefa&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sayyadhujefa&theme=github-dark&hide_border=true"/>
@@ -96,5 +95,5 @@ Developing an autonomous robot capable of **intelligent navigation and task auto
 💼 LinkedIn: https://linkedin.com/in/SayyadHujefa
 
 ---
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayyadhujefa&theme=github-dark"/>
 ⭐ Passionate about **Artificial Intelligence, Robotics, and building intelligent systems.**

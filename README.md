@@ -6,7 +6,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sayyad+Hujefa+Ayub;Final+Year+AIML+Engineer;AI+%7C+Machine+Learning+%7C+Robotics;Building+Intelligent+Systems+and+Autonomous+Robots" />
+</p>
 ---
 
 ## 🎓 About Me

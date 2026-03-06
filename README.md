@@ -6,14 +6,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-## 📊 GitHub Analytics
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayyadhujefa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyadhujefa&layout=compact&langs_count=8&theme=github_dark"/>
-
+<img src="https://streak-stats.demolab.com?user=Sayyadhujefa&theme=github-dark&hide_border=true"/>
 </p>
 ---
 

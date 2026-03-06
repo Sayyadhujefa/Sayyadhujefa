@@ -89,8 +89,8 @@ Developing an autonomous robot capable of **intelligent navigation and task auto
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:sayyadhujefa04@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/Sayyad Hujefa
+📧 Email: [sayyadhujefa04@gmail.com](mailto:sayyadhujefa04@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/SayyadHujefa
 
 ---
 

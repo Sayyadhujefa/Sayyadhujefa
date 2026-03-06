@@ -2,6 +2,7 @@
 <h3 align="center">Artificial Intelligence & Machine Learning Student | AI Enthusiast | Web Developer</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sayyadhujefa&color=blue)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayyadhujefa&theme=github-dark"/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
